@@ -7,10 +7,10 @@ This as a web and mobile app that will allow an instructor to take attendance in
 
 ### General
 
-- Access 
-  - based on geofencing.
-  - based on QR code image upload.
-  - based on time. 
+- Access to app/quiz will be based on:
+  - geofencing
+  - QR code image upload
+  - class time 
 - Get location permissions.
 - Record time spent in class based on location.
 - Putting app in background will either submit quiz or log how long student left app.
